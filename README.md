@@ -24,4 +24,4 @@
 </main>
 <footer class="footer">© <span id="year"></span> Deder Online. Mirgi hundi seeraan eegama.<br>Qabiyyee marsariitii kanaa itti gaafatamummaan gulaalaa irratti argama.</footer>
 <script>document.getElementById('year').textContent=new Date().getFullYear();</script>
-</body></html>
+</body></html>https://github.com/dederfrontpost/github-pages/blob/content-update/LICENSE
